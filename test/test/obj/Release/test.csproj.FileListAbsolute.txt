@@ -1,0 +1,10 @@
+C:\Users\e_rr\OneDrive - Alstom\test\test\test\bin\Release\test.exe.config
+C:\Users\e_rr\OneDrive - Alstom\test\test\test\bin\Release\test.exe
+C:\Users\e_rr\OneDrive - Alstom\test\test\test\bin\Release\test.pdb
+C:\Users\e_rr\OneDrive - Alstom\test\test\test\obj\Release\test.csprojAssemblyReference.cache
+C:\Users\e_rr\OneDrive - Alstom\test\test\test\obj\Release\test.Form1.resources
+C:\Users\e_rr\OneDrive - Alstom\test\test\test\obj\Release\test.Properties.Resources.resources
+C:\Users\e_rr\OneDrive - Alstom\test\test\test\obj\Release\test.csproj.GenerateResource.cache
+C:\Users\e_rr\OneDrive - Alstom\test\test\test\obj\Release\test.csproj.CoreCompileInputs.cache
+C:\Users\e_rr\OneDrive - Alstom\test\test\test\obj\Release\test.exe
+C:\Users\e_rr\OneDrive - Alstom\test\test\test\obj\Release\test.pdb
